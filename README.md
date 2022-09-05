@@ -23,8 +23,18 @@ Summary of ML reporting guidelines
 ](https://www.equator-network.org/reporting-guidelines/spirit-artificial-intelligence/)
 
 ## 4. ABCD
+* [Toward better clinical prediction models: seven steps for development and an ABCD for validation](https://dx.doi.org/10.1093/eurheartj/ehu207) (European Heart Journal, 2014)
+* Equator - 
+
 ## 5. CHARMS
+* [Critical Appraisal and Data Extraction for Systematic Reviews of Prediction Modeling Studies: The CHARMS Checklist](https://dx.doi.org/10.1371/journal.pmed.1001744) (PLoS Medicine, 2014)
+* Equator - 
+
 ## 6. TRIPOD
+* [Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD): The TRIPOD Statement](https://dx.doi.org/10.1002/bjs.9736) (British Journal of Surgery, 2015)
+* [Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD): Explanation and Elaboration](https://dx.doi.org/10.7326/M14-0698) (Annals of Internal Medicine, 2015) 
+* Equator - 
+
 ## 7. STARD
 ## 8. Guidelines
 ## 9. ML test score
