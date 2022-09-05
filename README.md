@@ -80,3 +80,13 @@ Summary of ML reporting guidelines
 ](https://www.equator-network.org/reporting-guidelines/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai/)
 
 ## Misc
+
+## Contributing
+
+Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
+
+You can start by [opening an issue](https://github.com/hollobit/ML-reporting-guidelines/issues/new) describing the problem that you're looking to resolve and we'll go from there.
+
+## License
+
+This document is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © Jonghong Jeon, 2022
