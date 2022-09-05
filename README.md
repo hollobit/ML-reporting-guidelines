@@ -3,6 +3,7 @@ Summary of ML reporting guidelines
 
 # Reporting Guidelines
 ## Review paper
+* [Assessment of Adherence to Reporting Guidelines by Commonly Used Clinical Prediction Models From a Single Vendor A Systematic Review](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795407) (JAMA, 2022) 
 
 ## 1. CONSORT-AI
 * [CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials](https://dx.doi.org/10.1016/j.ijsu.2011.09.004) (International Journal of Surgery, 2010)
@@ -36,12 +37,40 @@ Summary of ML reporting guidelines
 * Equator - 
 
 ## 7. STARD
+* [STARD 2015 guidelines for reporting diagnostic accuracy studies:explanation and elaboration](https://dx.doi.org/10.1136/bmjopen-2016-012799) (BMJ Open, 2016)
+* Equator - 
+
 ## 8. Guidelines
+* [Guidelines for Developing and Reporting Machine Learning Predictive Models in Biomedical Research: A Multidisciplinary View](https://dx.doi.org/10.2196/jmir.5870) (Journal of Medical Internet Research, 2016) 
+* Equator - 
+
 ## 9. ML test score
+* [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://dx.doi.org/10.1109/BigData.2017.8258038) (Proceedings of the 2017 IEEE International Conference on Big Data, 2017)
+* Equator - 
+
 ## 10. PROBAST
+* [PROBAST: A Tool to Assess the Risk of Bias and Applicability of Prediction Model Studies](https://dx.doi.org/10.7326/M18-1376) (Annals of Internal Medicine, 2019)
+* [PROBAST: A Tool to Assess Risk of Bias and Applicability of Prediction Model Studies: Explanation and Elaboration](https://dx.doi.org/10.7326/M18-1377) (Annals of Internal Medicine, 2019)
+* Equator - 
+
 ## 11. Model Cards
+* [Model Cards for Model Reporting](https://arxiv.org/abs/1810.03993) (Proceedings of the Conference on Fairness, Accountability, and Transparency, 2019), [](https://dl.acm.org/doi/10.1145/3287560.3287596)
+* Equator - 
+
 ## 12. Model facts labels
+* [Presenting machine learning model information to clinical end users with model facts labels](https://dx.doi.org/10.1038/s41746-020-0253-3) (NPJ Digital Medicine, 2020)
+* Equator - 
+
 ## 13. MINIMAR
+* [MINIMAR (MINimum Information for Medical AI Reporting): Developing reporting standards for artificial intelligence in health care](https://dx.doi.org/10.1093/jamia/ocaa088) (Journal of the American Medical Information Association, 2020)
+* Equator - 
+
 ## 14. ML-CLAIM checklist
+* [Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist](https://www.nature.com/articles/s41591-020-1041-y) (Nature Medicine, 2020) 
+* Equator - 
+
 ## 15. Trust and value checklist 
+* [AI-Enabled Clinical Decision Support Software: A “Trust and Value Checklist” for Clinicians](https://catalyst.nejm.org/doi/full/10.1056/CAT.20.0212) (NEJM Catalyst, 2020)
+* Equator - 
+
 ## 16. DECIDE-AI 
