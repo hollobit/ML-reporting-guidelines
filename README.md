@@ -76,8 +76,11 @@ Summary of ML reporting guidelines
 
 ## 16. DECIDE-AI 
 * [DECIDE-AI: new reporting guidelines to bridge the development-to-implementation gap in clinical artificial intelligence](https://www.nature.com/articles/s41591-021-01229-5) (Nature Medicine, 2021)
+* [Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI](https://www.nature.com/articles/s41591-022-01772-9) (Nature Medicine, 2022) 
+* [Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI](https://doi.org/10.1136/bmj-2022-070904) (BMJ, 2022)
 * Equator - [Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI
 ](https://www.equator-network.org/reporting-guidelines/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai/)
+<img src="https://www.bmj.com/content/bmj/377/bmj-2022-070904/F1.large.jpg">
 
 ## Misc
 
