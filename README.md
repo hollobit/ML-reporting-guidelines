@@ -4,11 +4,15 @@ Summary of ML reporting guidelines
 # Reporting Guidelines
 ## Review paper
 * [Assessment of Adherence to Reporting Guidelines by Commonly Used Clinical Prediction Models From a Single Vendor A Systematic Review](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795407) (JAMA, 2022) 
+* [Completeness of reporting of clinical prediction models developed using supervised machine learning: a systematic review](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01469-6) (BMC Medical Research Methodology, 2022) 
+* [Reporting quality of studies using machine learning models for medical diagnosis: a systematic review](https://bmjopen.bmj.com/content/10/3/e034568) (BMJ Open, 2019) 
 
 ## 1. CONSORT-AI
 * [CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials](https://dx.doi.org/10.1016/j.ijsu.2011.09.004) (International Journal of Surgery, 2010)
 * [CONSORT 2010 Explanation and Elaboration: updated guidelines for reporting parallel group randomized trials](https://dx.doi.org/10.1016/j.jclinepi.2010.03.004) (Journal of Clinical Epidemiology, 2010)
 * [Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension](https://dx.doi.org/10.1038/s41591-020-1034-x) (Nature Medicine, 2020) 
+* [Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI Extension](https://www.bmj.com/content/370/bmj.m3164) (BMJ, 2020)
+* [Reporting guidelines for clinical trials of artificial intelligence interventions: the SPIRIT-AI and CONSORT-AI guidelines](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04951-6) (Trials, 2021)
 * Equator - [Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI Extension](https://www.equator-network.org/reporting-guidelines/consort-artificial-intelligence/)
 
 ## 2. Risk
@@ -20,6 +24,7 @@ Summary of ML reporting guidelines
 * [SPIRIT 2013 Statement: Defining Standard Protocol Items for Clinical Trials](https://dx.doi.org/10.7326/0003-4819-158-3-201302050-00583) (Annals of Internal Medicine, 2013) 
 * [SPIRIT 2013 explanation and elaboration: guidance for protocols of clinical trials](https://dx.doi.org/10.1136/bmj.e7586) (BMJ, 2013)
 * [Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension](https://dx.doi.org/10.1136/bmj.m3210) (BMJ, 2020) 
+* [Reporting guidelines for clinical trials of artificial intelligence interventions: the SPIRIT-AI and CONSORT-AI guidelines](https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-020-04951-6) (Trials, 2021)
 * Equator - [Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI Extension
 ](https://www.equator-network.org/reporting-guidelines/spirit-artificial-intelligence/)
 
@@ -46,8 +51,9 @@ Summary of ML reporting guidelines
 * Equator - 
 
 ## 9. ML test score
-* [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://dx.doi.org/10.1109/BigData.2017.8258038) (Proceedings of the 2017 IEEE International Conference on Big Data, 2017)
+* [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://dx.doi.org/10.1109/BigData.2017.8258038) (Proceedings of the 2017 IEEE International Conference on Big Data, 2017), [Google Research](https://research.google/pubs/pub46555/)
 * Equator - 
+* [Google Scholar](https://scholar.google.com/scholar?lr&ie=UTF-8&oe=UTF-8&q=The+ML+Test+Score%3A+A+Rubric+for+ML+Production+Readiness+and+Technical+Debt+Reduction+Breck+Cai+Nielsen+Salib+Sculley)
 
 ## 10. PROBAST
 * [PROBAST: A Tool to Assess the Risk of Bias and Applicability of Prediction Model Studies](https://dx.doi.org/10.7326/M18-1376) (Annals of Internal Medicine, 2019)
@@ -69,6 +75,7 @@ Summary of ML reporting guidelines
 ## 14. ML-CLAIM checklist
 * [Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist](https://www.nature.com/articles/s41591-020-1041-y) (Nature Medicine, 2020) 
 * Equator - [Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist](https://www.equator-network.org/reporting-guidelines/minimum-information-about-clinical-artificial-intelligence-modeling-the-mi-claim-checklist/)
+* [Github](https://github.com/beaunorgeot/MI-CLAIM)
 
 ## 15. Trust and value checklist 
 * [AI-Enabled Clinical Decision Support Software: A “Trust and Value Checklist” for Clinicians](https://catalyst.nejm.org/doi/full/10.1056/CAT.20.0212) (NEJM Catalyst, 2020)
