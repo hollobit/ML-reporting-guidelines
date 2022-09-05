@@ -36,8 +36,9 @@ Summary of ML reporting guidelines
 * [Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis (TRIPOD): Explanation and Elaboration](https://dx.doi.org/10.7326/M14-0698) (Annals of Internal Medicine, 2015) 
 * Equator - 
 
-## 7. STARD
+## 7. STARD-AI
 * [STARD 2015 guidelines for reporting diagnostic accuracy studies:explanation and elaboration](https://dx.doi.org/10.1136/bmjopen-2016-012799) (BMJ Open, 2016)
+* [Developing a reporting guideline for artificial intelligence-centred diagnostic test accuracy studies: the STARD-AI protocol](http://dx.doi.org/10.1136/bmjopen-2020-047709) (BMJ Open, 2021)
 * Equator - 
 
 ## 8. Guidelines
@@ -67,10 +68,15 @@ Summary of ML reporting guidelines
 
 ## 14. ML-CLAIM checklist
 * [Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist](https://www.nature.com/articles/s41591-020-1041-y) (Nature Medicine, 2020) 
-* Equator - 
+* Equator - [Minimum information about clinical artificial intelligence modeling: the MI-CLAIM checklist](https://www.equator-network.org/reporting-guidelines/minimum-information-about-clinical-artificial-intelligence-modeling-the-mi-claim-checklist/)
 
 ## 15. Trust and value checklist 
 * [AI-Enabled Clinical Decision Support Software: A “Trust and Value Checklist” for Clinicians](https://catalyst.nejm.org/doi/full/10.1056/CAT.20.0212) (NEJM Catalyst, 2020)
 * Equator - 
 
 ## 16. DECIDE-AI 
+* [DECIDE-AI: new reporting guidelines to bridge the development-to-implementation gap in clinical artificial intelligence](https://www.nature.com/articles/s41591-021-01229-5) (Nature Medicine, 2021)
+* Equator - [Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI
+](https://www.equator-network.org/reporting-guidelines/reporting-guideline-for-the-early-stage-clinical-evaluation-of-decision-support-systems-driven-by-artificial-intelligence-decide-ai/)
+
+## Misc
