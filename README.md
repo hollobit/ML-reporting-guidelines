@@ -1,5 +1,10 @@
 # ML-reporting-guidelines
-Summary of ML reporting guidelines
+This repository aim to provide a simple summary of ML reporting guidelines.
+
+There are many reporting guidelines in development for the clinical evaluation of AI/ML-enabled medical research and development in real-world settings.  
+The reporting guidelines can be useful because they can provide the key part of the evidence that is used when checking whether an AI technology can be used sufficiently safely and effectively. 
+
+Minimum reporting guidelines for clinical evaluation can be instrumental in improving the quality of clinical evaluation and promoting completeness and transparency of reporting for evaluating AI/ML-enabled product development. 
 
 # Reporting Guidelines
 ## Review paper
@@ -51,9 +56,10 @@ Summary of ML reporting guidelines
 * Equator - 
 
 ## 9. ML test score
+* [What’s your ML test score? A rubric for ML production systems](https://research.google/pubs/pub45742/) (NIPS 2016 Workship)
 * [The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction](https://dx.doi.org/10.1109/BigData.2017.8258038) (Proceedings of the 2017 IEEE International Conference on Big Data, 2017), [Google Research](https://research.google/pubs/pub46555/)
 * Equator - 
-* [Google Scholar](https://scholar.google.com/scholar?lr&ie=UTF-8&oe=UTF-8&q=The+ML+Test+Score%3A+A+Rubric+for+ML+Production+Readiness+and+Technical+Debt+Reduction+Breck+Cai+Nielsen+Salib+Sculley)
+* [Youtube](https://youtu.be/SIoYEd7VPDQ), [Google Scholar](https://scholar.google.com/scholar?lr&ie=UTF-8&oe=UTF-8&q=The+ML+Test+Score%3A+A+Rubric+for+ML+Production+Readiness+and+Technical+Debt+Reduction+Breck+Cai+Nielsen+Salib+Sculley)
 
 ## 10. PROBAST
 * [PROBAST: A Tool to Assess the Risk of Bias and Applicability of Prediction Model Studies](https://dx.doi.org/10.7326/M18-1376) (Annals of Internal Medicine, 2019)
