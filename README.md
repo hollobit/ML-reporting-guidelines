@@ -8,10 +8,10 @@ Minimum reporting guidelines for clinical evaluation can be instrumental in impr
 
 # Reporting Guidelines
 ## Review paper
-* [Assessment of Adherence to Reporting Guidelines by Commonly Used Clinical Prediction Models From a Single Vendor A Systematic Review](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795407) (JAMA, 2022) 
-* [Completeness of reporting of clinical prediction models developed using supervised machine learning: a systematic review](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01469-6) (BMC Medical Research Methodology, 2022) 
+* [Assessment of Adherence to Reporting Guidelines by Commonly Used Clinical Prediction Models From a Single Vendor A Systematic Review](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2795407) (JAMA, 2022) - [(Google Scholar)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Assessment+of+Adherence+to+Reporting+Guidelines+by+Commonly+Used+Clinical+Prediction+Models+From+a+Single+Vendor+A+Systematic+Review&btnG=)
+* [Completeness of reporting of clinical prediction models developed using supervised machine learning: a systematic review](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-021-01469-6) (BMC Medical Research Methodology, 2022) - [(Google Scholar)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Completeness+of+reporting+of+clinical+prediction+models+developed+using+supervised+machine+learning%3A+a+systematic+review&btnG=)
 * [Review of study reporting guidelines for clinical studies using artificial intelligence in healthcare](https://informatics.bmj.com/content/28/1/e100385) (BMJ Health Care Inform, 2021) - [(Google Scholar)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Review+of+study+reporting+guidelines+for+clinical+studies+using+artificial+intelligence+in+healthcare+&btnG=)
-* [Reporting quality of studies using machine learning models for medical diagnosis: a systematic review](https://bmjopen.bmj.com/content/10/3/e034568) (BMJ Open, 2019) 
+* [Reporting quality of studies using machine learning models for medical diagnosis: a systematic review](https://bmjopen.bmj.com/content/10/3/e034568) (BMJ Open, 2019) - [(Google Scholar)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reporting+quality+of+studies+using+machine+learning+models+for+medical+diagnosis%3A+a+systematic+review&btnG=)
 
 ## 1. CONSORT-AI
 * [CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials](https://dx.doi.org/10.1016/j.ijsu.2011.09.004) (International Journal of Surgery, 2010) - [(Google Scholar)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=CONSORT+2010+statement%3A+updated+guidelines+for+reporting+parallel+group+randomised+trials&btnG=)
