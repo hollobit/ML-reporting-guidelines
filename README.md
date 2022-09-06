@@ -1,5 +1,5 @@
-# ML-reporting-guidelines
-This repository aim to provide a simple summary of ML reporting guidelines.
+# Machine Learning reporting 
+This repository aim to provide a simple summary of ML(Machine Learning) reporting guidelines.
 
 There are many reporting guidelines in development for the clinical evaluation of AI/ML-enabled medical research and development in real-world settings.  
 The reporting guidelines can be useful because they can provide the key part of the evidence that is used when checking whether an AI technology can be used sufficiently safely and effectively. 
