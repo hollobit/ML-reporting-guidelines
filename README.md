@@ -64,7 +64,7 @@ Minimum reporting guidelines for clinical evaluation can be instrumental in impr
 
 ## 10. PROBAST
 * [PROBAST: A Tool to Assess the Risk of Bias and Applicability of Prediction Model Studies](https://dx.doi.org/10.7326/M18-1376) (Annals of Internal Medicine, 2019) - [(Google Scholar)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PROBAST%3A+A+Tool+to+Assess+the+Risk+of+Bias+and+Applicability+of+Prediction+Model+Studies&btnG=)
-* [PROBAST: A Tool to Assess Risk of Bias and Applicability of Prediction Model Studies: Explanation and Elaboration](https://dx.doi.org/10.7326/M18-1377) (Annals of Internal Medicine, 2019)
+* [PROBAST: A Tool to Assess Risk of Bias and Applicability of Prediction Model Studies: Explanation and Elaboration](https://dx.doi.org/10.7326/M18-1377) (Annals of Internal Medicine, 2019) - [(Google Scholar)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PROBAST%3A+A+Tool+to+Assess+Risk+of+Bias+and+Applicability+of+Prediction+Model+Studies%3A+Explanation+and+Elaboration&btnG=)
 * Equator - 
 
 ## 11. Model Cards
